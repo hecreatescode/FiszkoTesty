@@ -395,6 +395,42 @@
           "count": 5
         }
       ]
+    },
+    {
+      "id": "zycie-prywatne",
+      "name": "Życie prywatne",
+      "topics": [
+        {
+          "id": "czas-wolny",
+          "name": "Spędzanie czasu wolnego",
+          "file": "czas-wolny.json",
+          "count": 20
+        },
+        {
+          "id": "czynnosci",
+          "name": "Czynności życia codziennego",
+          "file": "czynnosci.json",
+          "count": 42
+        },
+        {
+          "id": "określanie czasu",
+          "name": "Określanie czasu",
+          "file": "określanie-czasu.json",
+          "count": 12
+        },
+        {
+          "id": "styl-zycia",
+          "name": "Styl życia",
+          "file": "styl-zycia.json",
+          "count": 18
+        },
+        {
+          "id": "swieta-uroczystosci-1.json",
+          "name": "Święta i uroczystości cz. 1",
+          "file": "swieta-uroczystosci-1.json",
+          "count": 18
+        }
+      ]
     }
   ]
 }

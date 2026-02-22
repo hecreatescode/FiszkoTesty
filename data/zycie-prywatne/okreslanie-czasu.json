@@ -1,0 +1,14 @@
+[
+    {"polish": "o północy", "english": "at midnight"},
+    {"polish": "w nocy", "english": "at night"},
+    {"polish": "w południe", "english": "at noon"},
+    {"polish": "w południe", "english": "at midday"},
+    {"polish": "w ciągu dnia", "english": "during the day"},
+    {"polish": "kwadrans po jedynastej", "english": "eleven fifteen"},
+    {"polish": "kwadrans po jedynastej", "english": "quarter past eleven"},
+    {"polish": "godzina piąta", "english": "five o'clock"},
+    {"polish": "dziesiąta trzydzieści", "english": "half past ten"},
+    {"polish": "w ciągu tygodnia", "english": "on weekdays"},
+    {"polish": "za kwadrans jedenasta", "english": "ten forty-five"},
+    {"polish": "dziesiąta trzydzieści", "english": "ten thirty"}
+]
