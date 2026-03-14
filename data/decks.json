@@ -429,6 +429,42 @@
           "name": "Święta i uroczystości cz. 1",
           "file": "swieta-uroczystosci-1.json",
           "count": 18
+        },
+        {
+          "id": "swieta-uroczystosci-2.json",
+          "name": "Święta i uroczystości cz. 2",
+          "file": "swieta-uroczystosci-2.json",
+          "count": 13
+        },
+        {
+          "id": "konflikty-problemy",
+          "name": "Konflikty i problemy",
+          "file": "konflikty-problemy.json",
+          "count": 14
+        },
+        {
+          "id": "malzenstwo-zwiazki",
+          "name": "Małżeństwo i związki",
+          "file": "malzenstwo-zwiazki.json",
+          "count": 19
+        },
+        {
+          "id": "wordpower-65",
+          "name": "Wordpower s. 65",
+          "file": "wordpower-65.json",
+          "count": 7
+        },
+        {
+          "id": "rodzina-znajomi-przyjaciele",
+          "name": "Rodzina, znajomi i przyjaciele",
+          "file": "rodzina-znajomi-przyjaciele.json",
+          "count": 57
+        },
+        {
+          "id": "wordpower-67",
+          "name": "Wordpower s. 67",
+          "file": "wordpower-67.json",
+          "count": 13
         }
       ]
     }
